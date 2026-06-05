@@ -5,7 +5,7 @@ A full-stack web app to manage employee records with full **CRUD** operations.
 ## Tech Stack
 - **Frontend:** React (Vite), Axios, React Router, Bootstrap
 - **Backend:** Spring Boot, Spring Data JPA, MySQL
-- **Deployed:** Netlify (frontend) · Railway (backend)
+- **Deployed:**  Railway
 
 ## Features
 - View, Add, Edit, and Delete employees
