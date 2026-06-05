@@ -1,6 +1,6 @@
 # EmpTrack — Employee Management System
 
-A full-stack web app to manage employee records with full **CRUD** operations.
+A full-stack web app to manage employee records with full CRUD operations.
 
 ## Tech Stack
 - **Frontend:** React (Vite), Axios, React Router, Bootstrap
